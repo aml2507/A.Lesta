@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  background-color: #EAF6F6;
+}
+
+.intro {
+  font-size: 2.5rem;
+}
+
+.Top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile {
+  background-color: white;
+}
+
+.middle-container {
+  background-color: white;
+  position: relative;
+}
+
+.skills {
+  background-color: white;
+}
+
+.avatar {
+  position: relative;
+  display: block;
+  border-radius: 200px;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  ;
+  border-width: 7px;
+  width: 5%;
+}
+
+h1 {
+  margin: 50px 0 auto auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 1;
+  font-size: 100px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #66BFBF
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.contact-me {
+margin:auto;
+  background-color: white;
+  padding-bottom: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 100px;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  background-color: white;
+}
+
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.browser {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.myButton {
+  -moz-box-shadow: 0 0 0 -7px #276873;
+  -webkit-box-shadow: 0 0 0 -7px #276873;
+  box-shadow: 0 0 0 -7px #276873;
+  background-color: #599bb3;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Verdana;
+  font-size: 15px;
+  padding: 7px 35px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  background-color: #408c99;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+.footer-link{
+  font-family: Verdana, sans-serif;
+}
+.Copyright {
+  color: #EAF6F6;
+  padding: 10px 0;
+}
